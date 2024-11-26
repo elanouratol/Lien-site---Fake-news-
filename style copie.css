@@ -1,0 +1,50 @@
+h1	{
+	display: flex;
+	justify-content: center;
+	color: #c1121f;
+}
+h2{ 
+color: #ffffff; 
+text-align: justify;
+display: flex ;
+justify-content: center;
+margin: 50px ;
+padding: 10px;
+border: 5px solid #fceade;
+border-radius: 7px;
+box-shadow: 2px 2px 3px grey;
+} 
+
+img { 
+width: 400px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+ border-radius: 7px; 
+}
+
+p { 
+text-align: justify;
+margin: 60px;
+padding: 20px;
+border: 1px blueviolet;
+border-radius: 25px;
+ box-shadow: 4px 4px 5px whitesmoke;}
+body { 
+background-color: ffcad4 ;
+ }
+a {
+	display: flex;
+	justify-content: center;
+
+}
+
+	display:flex; 
+}
+.card{ 
+border border-radius: 10px;
+padding: 10px;
+margin: 10px;
+background-color: #f1f7fe;
+font-family: "poppins", sans sérif; 
+  }
